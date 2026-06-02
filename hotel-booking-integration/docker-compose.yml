@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  room-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.python
+    ports:
+      - "5001:5001"
+    environment:
+      - PORT=5001
+
+  booking-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.node
+    ports:
+      - "5002:5002"
+    environment:
+      - PORT=5002
+
+  payment-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.go
+    ports:
+      - "5003:5003"
+    environment:
+      - PORT=5003
