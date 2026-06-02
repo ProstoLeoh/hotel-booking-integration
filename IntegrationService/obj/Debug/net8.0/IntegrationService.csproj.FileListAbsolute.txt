@@ -1,0 +1,12 @@
+C:\Users\fahre\hotel-booking-integration\IntegrationService\bin\Debug\net8.0\IntegrationService.deps.json
+C:\Users\fahre\hotel-booking-integration\IntegrationService\bin\Debug\net8.0\IntegrationService.dll
+C:\Users\fahre\hotel-booking-integration\IntegrationService\bin\Debug\net8.0\IntegrationService.pdb
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.csproj.AssemblyReference.cache
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.AssemblyInfoInputs.cache
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.AssemblyInfo.cs
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.csproj.CoreCompileInputs.cache
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.dll
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\refint\IntegrationService.dll
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\IntegrationService.pdb
+C:\Users\fahre\hotel-booking-integration\IntegrationService\obj\Debug\net8.0\ref\IntegrationService.dll
