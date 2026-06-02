@@ -1,0 +1,6 @@
+FROM node:18-slim
+WORKDIR /app
+COPY package.json server.js ./
+RUN npm install
+CMD ["node", "server.js"]
+EXPOSE 5002
