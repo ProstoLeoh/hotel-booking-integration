@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rAG8cmilnpFXTQzQMR6ZpHqtWyyZtBiqk4KbAtjmX1s=",
+  "Source": "HotelBooking.API",
+  "BasePath": "_content/HotelBooking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelBooking.API\\wwwroot",
+      "Source": "HotelBooking.API",
+      "ContentRoot": "C:\\Users\\fahre\\hotel-booking-integration\\HotelBooking.API\\wwwroot\\",
+      "BasePath": "_content/HotelBooking.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fahre\\hotel-booking-integration\\HotelBooking.API\\wwwroot\\index.html",
+      "SourceId": "HotelBooking.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fahre\\hotel-booking-integration\\HotelBooking.API\\wwwroot\\",
+      "BasePath": "_content/HotelBooking.API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
